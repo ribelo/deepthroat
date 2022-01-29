@@ -1,0 +1,1175 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pa",
+				"path	import"
+			],
+			[
+				"ex",
+				"extensions	statement"
+			],
+			[
+				"apply",
+				"apply_async	function"
+			],
+			[
+				"re",
+				"result	forflow"
+			],
+			[
+				"app",
+				"append"
+			],
+			[
+				"map",
+				"map_async	function"
+			],
+			[
+				"from",
+				"from_time"
+			],
+			[
+				"time",
+				"timeframe	param"
+			],
+			[
+				"sym",
+				"SYMBOLS	statement"
+			],
+			[
+				"quotes",
+				"quotes_save"
+			],
+			[
+				"HDF",
+				"HDF_STORE"
+			],
+			[
+				"body",
+				"body_mid_point"
+			],
+			[
+				"bod",
+				"body_size_break"
+			],
+			[
+				"cun",
+				"concurrent"
+			],
+			[
+				"int",
+				"int8"
+			],
+			[
+				"in",
+				"int8"
+			],
+			[
+				"exe",
+				"executor	statement"
+			],
+			[
+				"fo",
+				"forever"
+			],
+			[
+				"INDICA",
+				"indicator_list"
+			],
+			[
+				"fir",
+				"first_run"
+			],
+			[
+				"cu",
+				"currencies"
+			],
+			[
+				"last",
+				"last_time"
+			],
+			[
+				"send",
+				"send_message  (function)"
+			],
+			[
+				"th",
+				"threading  (module)"
+			],
+			[
+				"get",
+				"get_info"
+			],
+			[
+				"json",
+				"jsonify	statement"
+			],
+			[
+				"j",
+				"json"
+			],
+			[
+				"c",
+				"config	(attribute, instance)"
+			],
+			[
+				"va",
+				"validate"
+			],
+			[
+				"su",
+				"summary_render"
+			],
+			[
+				"to",
+				"token"
+			],
+			[
+				"Bad",
+				"BadSignature	(global, class)"
+			],
+			[
+				"B",
+				"BadSignature	(global, class)"
+			],
+			[
+				"clas",
+				"classmethod	(builtin, class)"
+			],
+			[
+				"loads",
+				"loads(s, max_age, return_timestamp, salt)	(attribute, function)"
+			],
+			[
+				"but",
+				"btn-group	BootstrapClass"
+			],
+			[
+				"login",
+				"login_required	(imported, instance)"
+			],
+			[
+				"lo",
+				"login_manager	(imported, instance)"
+			],
+			[
+				"login_",
+				"login_view"
+			],
+			[
+				"bl",
+				"Blueprint	(imported, class)"
+			],
+			[
+				"URL",
+				"URLSafeTimedSerializer	(global, class)"
+			],
+			[
+				"cla",
+				"classmethod	(builtin, class)"
+			],
+			[
+				"pass",
+				"password	(local, instance)"
+			],
+			[
+				"vali",
+				"ValidationError	(imported, instance)"
+			],
+			[
+				"pro",
+				"provider	(local, instance)"
+			],
+			[
+				"market",
+				"markets_structure	(local, instance)"
+			],
+			[
+				"lot",
+				"lot_digits	(local, instance)"
+			],
+			[
+				"balan",
+				"balance_max	(local, instance)"
+			],
+			[
+				"trad",
+				"trade_history	(local, instance)"
+			],
+			[
+				"trade",
+				"trade_nr	(local, instance)"
+			],
+			[
+				"st",
+				"strptime(cls, date_string, format)	(attribute, function)"
+			],
+			[
+				"tra",
+				"trade_history	(local, instance)"
+			],
+			[
+				"pric",
+				"price_tp"
+			],
+			[
+				"price",
+				"price_sl"
+			],
+			[
+				"order",
+				"order_size"
+			],
+			[
+				"form-",
+				"form-inline	BootstrapClass"
+			],
+			[
+				"date",
+				"datetime	(global, class)"
+			],
+			[
+				"te",
+				"text-success	BootstrapClass"
+			],
+			[
+				"con",
+				"container	BootstrapClass"
+			],
+			[
+				"curr",
+				"currency	(local, instance)"
+			],
+			[
+				"dash",
+				"dashboard_market(market, currency)	(global, function)"
+			],
+			[
+				"co",
+				"context_processor(f)	(attribute, function)"
+			],
+			[
+				"str",
+				"structure"
+			],
+			[
+				"min",
+				"min_lot_size	(local, instance)"
+			],
+			[
+				"lot_",
+				"lot_laverage	(local, instance)"
+			],
+			[
+				"bala",
+				"balance_max	(local, instance)"
+			],
+			[
+				"ba",
+				"balance_max	(local, instance)"
+			],
+			[
+				"max",
+				"max_eq	(local, instance)"
+			],
+			[
+				"del",
+				"delta	(local, instance)"
+			],
+			[
+				"bal",
+				"balance	(local, instance)"
+			],
+			[
+				"transa",
+				"transactions	(local, instance)"
+			],
+			[
+				"set",
+				"set(name, value, ex, px, nx, xx)	(attribute, function)"
+			],
+			[
+				"tran",
+				"transaction	(local, instance)"
+			],
+			[
+				"trans",
+				"transactions	(local, instance)"
+			],
+			[
+				"profi",
+				"profit_cash"
+			],
+			[
+				"mark",
+				"markets_structure	(local, instance)"
+			],
+			[
+				"repl",
+				"replaceWith	jQuery"
+			],
+			[
+				"def",
+				"defaultdict	(imported, instance)"
+			],
+			[
+				"ma",
+				"markets_structure	(local, instance)"
+			],
+			[
+				"jso",
+				"jsonify	(imported, instance)"
+			],
+			[
+				"Ind",
+				"IndexError	(builtin, class)"
+			],
+			[
+				"In",
+				"InterruptedError	(builtin, class)"
+			],
+			[
+				"autojit",
+				"autojit(template_signature, backend, target, nopython, locals, kwargs)	(imported, function)"
+			],
+			[
+				"markets",
+				"MARKETS"
+			],
+			[
+				"QUOA",
+				"QUANTUM_LOOK_BACK  (variable)"
+			],
+			[
+				"ne",
+				"NETFOUNDS_QUOTES_PATH  (variable)"
+			],
+			[
+				"MT",
+				"MTGOX_QUOTES_PATH  (variable)"
+			],
+			[
+				"tm",
+				"timedelta  (class)"
+			],
+			[
+				"nan",
+				"nanmin  (function)"
+			],
+			[
+				"w",
+				"wrbHG  (function)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "#-*- coding: utf-8-*-\n#cython: language_level=3\n#cython: boundscheck=False\n#cython: wraparound=False\n#cython: embedsignature=True\n#cython: cdivision=True\ncimport math\ncimport fcmp\n\ncdef inline double fmax(double[:] arr) nogil:\n    cdef:\n        double r = -1.7976931348623157e+308\n        int i\n    for i in range(arr.shape[0]):\n        if math.is_nan(arr[i]):\n            continue\n        if arr[i] > r:\n            r = arr[i]\n    return r\n\ncdef inline double fargmax(double[:] arr) nogil:\n    cdef:\n        double r = -1.7976931348623157e+308\n        int i, x\n    for i in range(arr.shape[0]):\n        if math.is_nan(arr[i]):\n            continue\n        if arr[i] > r:\n            r = arr[i]\n            x = i\n    return x\n\ncdef inline long imax(long[:] arr) nogil:\n    cdef:\n        long r = -9223372036854775807\n        int i\n    for i in range(arr.shape[0]):\n        if arr[i] > r:\n            r = arr[i]\n    return r\n\ncdef inline long iargmax(long[:] arr) nogil:\n    cdef:\n        long r = -9223372036854775807\n        int i, x\n    for i in range(arr.shape[0]):\n        if arr[i] > r:\n            r = arr[i]\n            x = i\n    return x\n\ncdef inline double fmin(double[:] arr) nogil:\n    cdef:\n        double r = 1.7976931348623157e+308\n        int i\n    for i in range(arr.shape[0]):\n        if math.is_nan(arr[i]):\n            continue\n        if arr[i] < ra:\n            r = arr[i]\n    return r\n\ncdef inline double fargmin(double[:] arr) nogil:\n    cdef:\n        double r = 1.7976931348623157e+308\n        int i, x\n    for i in range(arr.shape[0]):\n        if arr[i] < ra:\n            continue\n        if arr[i] < r:\n            r = arr[i]\n            x = i\n    return x\n\ncdef inline long imin(long[:] arr) nogil:\n    cdef:\n        long r = 9223372036854775807\n        int i\n    for i in range(arr.shape[0]):\n        if arr[i] > r:\n            r = arr[i]\n    return r\n\ncdef inline long iargmin(long[:] arr) nogil:\n    cdef:\n        long r = 9223372036854775807\n        int i, x\n    for i in range(arr.shape[0]):\n        if arr[i] > r:\n            r = arr[i]\n            x = i\n    return x\n\ncdef inline double fsum(double[:] arr) nogil:\n    cdef:\n        double r\n        int i\n    for i in range(arr.shape[0]):\n        if math.is_nan(arr[i]):\n            continue\n        r += arr[i]\n    return r\n\ncdef inline long isum(long[:] arr) nogil:\n    cdef:\n        long r\n        int i\n    for i in range(arr.shape[0]):\n        r += arr[i]\n    return r\n\ncdef inline double fnancount(double[:] arr) nogil:\n    cdef:\n        long r = 0\n        int i\n    for i in range(arr.shape[0]):\n        if math.is_nan(arr[i]):\n            continue\n        r += 1\n    return r\n\ncdef inline int any(int[:] arr) nogil:\n    cdef:\n        int i\n    for i in range(arr.shape[0]):\n        if arr[i] != 0:\n            return True\n    return False\n\ncdef inline int all(int[:] arr) nogil:\n    cdef:\n        int i\n    for i in range(arr.shape[0]):\n        if arr[i] == 0:\n            return False\n    return True\n\n# cdef inline double fmean(double[:] arr) nogil:\n#     return fsum(arr) / fnancount(arr)\n\n# cdef inline double imean(arr) nogil:\n#     return isum(arr) / arr.shape[0]\n",
+			"file": "array.pxd",
+			"file_size": 3160,
+			"file_write_time": 130320546199363466,
+			"settings":
+			{
+				"buffer_size": 3162,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/huxley/Dropbox/code/deepthroat/setup.py",
+			"settings":
+			{
+				"buffer_size": 231,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "math.pxd",
+			"settings":
+			{
+				"buffer_size": 1271,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "fcmp.pxd",
+			"settings":
+			{
+				"buffer_size": 669,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 97.0,
+		"selected_items":
+		[
+			[
+				"reiden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"reid",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"reide",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"coff",
+				"Coffee: Compile File"
+			],
+			[
+				"coffe",
+				"Coffee: Toggle Watch Mode"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"Coffee",
+				"FindKeyConflicts: All Key Maps to Buffer"
+			],
+			[
+				"control",
+				"Package Control: List Packages"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"auto",
+				"User: Python PEP8 Autoformat"
+			],
+			[
+				"githu",
+				"Github: Open File"
+			],
+			[
+				"json",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"make",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 386.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"os.getcwd()",
+			"import os",
+			"os",
+			"ls",
+			"import builtins",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/huxley/Dropbox/code/deepthroat/deepthroat/const.c",
+		"/home/huxley/Dropbox/code/deepthroat/deepthroat/const.html",
+		"/home/huxley/Downloads/gsl-1.9/gsl_math.h",
+		"/home/huxley/Dropbox/code/deepthroat/deepthroat/__init__.pxd",
+		"/home/huxley/Dropbox/code/deepthroat/deepthroat/__init__.py",
+		"/home/huxley/Downloads/gsl-1.9/sys/ldfrexp.c",
+		"/home/huxley/Downloads/gsl-1.9/sys/fcmp.c",
+		"/home/huxley/Dropbox/code/deepthroat/deepthroat/math.pxd",
+		"/home/huxley/Dropbox/TEAS/12_kasa_1.txt",
+		"/home/huxley/Dropbox/code/deepthroat/deepthroat/const.pyx",
+		"/home/huxley/Downloads/gsl-1.9/complex/math.c",
+		"/home/huxley/Downloads/gsl-1.9/complex/gsl_complex_math.h",
+		"/home/huxley/.cache/.fr-1nJjoC/gsl-1.9/statistics/minmax_source.c",
+		"/home/huxley/.cache/.fr-xLRJUE/gsl-1.9/statistics/minmax.c",
+		"/home/huxley/Dropbox/code/deepthroat/deepthroat/const.pxd",
+		"/home/huxley/Games/DontStarve/SteamApps/common/dont_starve/mods/workshop-175576844/READ OR WULFE WONT WORK.txt",
+		"/home/huxley/Games/DontStarve/SteamApps/common/dont_starve/mods/workshop-195729043/scripts/prefabs/devon.lua",
+		"/home/huxley/Games/DontStarve/SteamApps/common/dont_starve/mods/workshop-195729043/modmain.lua",
+		"/home/huxley/Games/DontStarve/SteamApps/common/dont_starve/mods/workshop-175576844/scripts/prefabs/wulfe.lua",
+		"/home/huxley/Games/DontStarve/SteamApps/common/dont_starve/mods/workshop-196051302/README",
+		"/home/huxley/Games/DontStarve/SteamApps/common/dont_starve/mods/workshop-171450140/modmain.lua",
+		"/home/huxley/Dropbox/code/Huxley Dashboard QT/pkg/quantum/indicator/cython/setup.py",
+		"/home/huxley/Dropbox/code/deepthroat/math.pyx",
+		"/home/huxley/Dropbox/code/Huxley Dashboard QT/pkg/quantum/libary/cython/_toolbox.pyx",
+		"/home/huxley/Dropbox/code/Huxley Dashboard QT/pkg/quantum/libary/cython/_deepthroat.pyx",
+		"/home/huxley/Dropbox/code/Huxley Dashboard QT/pkg/quantum/libary/_toolbox.cpython-33m.so",
+		"/home/huxley/Dropbox/code/deepthroat/setup.c",
+		"/home/huxley/Dropbox/code/deepthroat/_math.c",
+		"/home/huxley/Dropbox/code/deepthroat/math.c",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/libary/cython/_toolbox.pyx",
+		"/home/huxley/Dropbox/code/deepthroat/const.pxd",
+		"/home/huxley/Dropbox/code/Huxley Dashboard QT/pkg/quantum/indicator/cython/strong_continuation_1.pyx",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/gap.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/consecutive_dir.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/bar_size_break.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/broken_by.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/body_size_break.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/resistance.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/shadow_upper.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/bar_mid_point.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/bar_size.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/bars_broken_by_body.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/body_mid_point.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/body_size.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/candle_dir.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/dcm.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/filled_by.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/shadow_lower.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/strong_continuation_1.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/strong_continuation_4.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/swing_point_1.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/swing_point_2.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/wrb.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/wrb_hg.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/strong_continuation_2.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/strong_continuation_3.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/recent_reaction_high.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/recent_reaction_low.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/support.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/fvb.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/reaction_break.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/reaction_high.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/reaction_low.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/recent_reaction_break.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/inside_zone.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum_back/analysis/wrb_analysis/zone.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum_back/analysis/quantum/fvb.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum_back/analysis/quantum/gap.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum_back/analysis/quantum/inside_zone.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum_back/analysis/quantum/reaction_break.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum_back/analysis/quantum/reaction_high.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum_back/analysis/quantum/reaction_low.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum_back/analysis/quantum/recent_reaction_break.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum_back/analysis/quantum/recent_reaction_high.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum_back/analysis/quantum/recent_reaction_low.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum_back/analysis/quantum/resistance.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum_back/analysis/quantum/strong_continuation_1.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum_back/analysis/quantum/strong_continuation_2.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum_back/analysis/quantum/strong_continuation_3.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum_back/analysis/quantum/strong_continuation_4.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum_back/analysis/quantum/swing_point_1.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum_back/analysis/quantum/swing_point_2.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum_back/analysis/quantum/wrb.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum_back/analysis/quantum/wrb_hg.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/analysis/quantum/inside_zone.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/analysis/quantum/recent_zone.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/analysis/quantum/strong_continuation_4.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/analysis/quantum/strong_continuation_3.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/analysis/quantum/strong_continuation_1.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/analysis/quantum/strong_continuation_2.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/analysis/quantum/swing_point_1.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/analysis/quantum/swing_point_2.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/analysis/quantum/swing_point_1",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/analysis/quantum/fvb.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/analysis/technical_analysis/__init__.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/analysis/wrb_analysis/base.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/analysis/quantum/resistance.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/analysis/quantum/support.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/analysis/quantum/wrb_hg.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/analysis/quantum/wrb.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/analysis/quantum/recent_reaction_break.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/analysis/quantum/reaction_break.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/analysis/quantum/recent_reaction_high.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/analysis/quantum/recent_reaction_low.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/analysis/quantum/reaction_low.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/analysis/quantum/reaction_high.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/analysis/quantum/gap.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/analysis/quantum/__init__.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/analysis/quantum/__init__.py_back",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/analysis/ajctr_analysis/__init__.py",
+		"/home/huxley/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/analysis/candle_analysis.py/bar_size.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/analysis/candle_analysis.py/bar_size_break.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/analysis/candle_analysis.py/bars_broken_by_body.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/analysis/candle_analysis.py/body_mid_point.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/analysis/candle_analysis.py/body_size.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/analysis/candle_analysis.py/body_size_break.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/analysis/candle_analysis.py/candle_dir.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/analysis/candle_analysis.py/consecutive_dir.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/analysis/candle_analysis.py/filled_by.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/analysis/candle_analysis.py/shadow_lower.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/analysis/candle_analysis.py/shadow_upper.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/analysis/candle_analysis.py/bar_mid_point.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/analysis/candle_analysis.py/__init__.py_back",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/analysis/candle_analysis.py/__init__.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/analysis/candle_analysis.py/broken_by.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/analysis/candle_analysis/body_mid_point.py",
+		"/home/huxley/Dropbox/code/Dashboard/server/app/quantum/analysis/candle_analysis/body_size.py"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"<open folders>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"fcmp.lt(arr[i], r):",
+			"fcmp.gt(arr[i], r)",
+			"math.cmp(arr[i], r) == -1:",
+			"math.cmp(arr[i], r) == 1",
+			"fcomp",
+			"EPSILON",
+			"arr[i] != arr[i]",
+			"char",
+			"math",
+			"FNINF",
+			"math",
+			"long",
+			"INIF",
+			"NINF",
+			"char",
+			"9223372036854775807",
+			"1.7976931348623157e+308",
+			"-9223372036854775807",
+			"is_nan",
+			"arr[i] != arr[i]",
+			"]:\n",
+			"arr[i] != arr[i]:",
+			"arr[i] != arr[i]",
+			"frexp",
+			"acosh",
+			"gsl_acosh",
+			"acosh",
+			"epsilon",
+			"gsl_fcmp",
+			"char",
+			"a",
+			"np",
+			"int64_t",
+			"np.float64_t",
+			"np.float64",
+			"np.int8_t",
+			"np.int64_t",
+			"np.float64_t",
+			"np.int64_t",
+			"np.int64_",
+			"np.float64_t",
+			"long",
+			"long[:]",
+			"long",
+			"nline long",
+			"np.float64_t[:]",
+			"double",
+			"char",
+			"long",
+			"double",
+			"long",
+			"double",
+			"arr):",
+			"):",
+			"deepthroat",
+			"unsigned",
+			"double",
+			"\"",
+			"plugins",
+			"def ",
+			"def",
+			"cpdef",
+			"inline",
+			"np",
+			"return y",
+			"cpdef",
+			"for j",
+			"[x]",
+			"= x",
+			"y = ",
+			", y",
+			"for x",
+			"unsigned int x",
+			"Py_ssize_t",
+			"np",
+			"wrb_hg",
+			"apply",
+			"df['",
+			"pool.apply(",
+			"_args",
+			"apply_async",
+			"*",
+			"apply_async",
+			"executor.submit",
+			"result",
+			"symbol",
+			"name",
+			"currency",
+			"for",
+			"indicator",
+			"executor",
+			",",
+			"body_size",
+			"wrb_hg",
+			"body_size",
+			"bars_broken_by_body",
+			"wrb_hg",
+			"body_size",
+			"dir",
+			"bars_broken_by_body",
+			"body_mid_point",
+			"body_size",
+			"bars_broken_by_body",
+			"wrb_hg",
+			"reaction_break",
+			"dir",
+			"body_size",
+			"low",
+			"high",
+			"autojit",
+			"loat64",
+			"autojit",
+			"np",
+			"float64",
+			"autojit",
+			"candle_analysis",
+			"_args",
+			"wrb_hg",
+			"zones",
+			"zone",
+			"autojit",
+			"def",
+			"wrb_hg",
+			"r",
+			"def",
+			"reaction_high",
+			"reaction_low",
+			"gap"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"int",
+			"_args",
+			"symbol",
+			"TIMEFRAMES",
+			"CURRENCY_PAIRS",
+			").min()",
+			").max()",
+			"from app.tool import deepthroat as dt",
+			"app.config",
+			"config",
+			"server",
+			"config",
+			"QUANTUM_LOOK_BACK",
+			"QUANTUM_CONTRACTION",
+			"CONTRACTION",
+			"from server.tool import deepthroat as dt",
+			"'",
+			"low[i] + (high[i] - low[i])*.8",
+			"low[i] + (high[i] - low[i])*.2",
+			"low[i] + (high[i] - low[i])*.1",
+			"low[i] + (high[i] - low[i])*.9",
+			" low[i] + (high[i] - low[i])*.1",
+			"(high[i] - low[i])*.3 + low[i]",
+			"(high[i] - low[i])*.1 + low[i]",
+			"(high[i] - low[i])*.8 + low[i]",
+			"(high[i] - low[i])*.2 + low[i]",
+			"(high[i] - low[i])*.9 + low[i]",
+			"):",
+			"bar_mid_point[i]",
+			"wrb[i]",
+			"[i-2]",
+			"[i-1]",
+			"volume_average[i]",
+			"volume[i]",
+			"volume",
+			"bar_size[i]",
+			"",
+			"bar_size[i]",
+			"",
+			"bar_size[i]",
+			"volume[i]",
+			"[i+1]",
+			"[i+2]",
+			"[i+3]",
+			"[i-3]",
+			"[i-2]",
+			"[i-1]",
+			"open[i]",
+			"close[i]",
+			"low[i]",
+			"high[i]",
+			"close[i] < close[i-1]",
+			"close[i] == high[i]",
+			"low[i] <= low[i+1]",
+			"close[i] < close[i+1]",
+			"high[i] <= high[i-1]",
+			"low[i] < low[i-1]",
+			"bar_mid_point",
+			"close[i] == low[i]",
+			"bar_size",
+			"body_mid_point[i]",
+			"[i-1]",
+			"body_size[i]",
+			"[i+1]",
+			"[i+2]",
+			"[i+3]",
+			"[i-3]",
+			"[i-2]",
+			"[i-1]",
+			"low[i] <= low[i-1]",
+			"high[i] <= high[i-1]",
+			"low[i] < low[i-1]",
+			"close[i] < close[i+1]",
+			")",
+			"):",
+			"[i+3]",
+			"[i+2]",
+			"[i+1]",
+			"bar_mid_point[i]",
+			"bar_size[i-i]",
+			"bar_size[i]",
+			"[i-3]",
+			"[i-2]",
+			"[i-1]",
+			"]",
+			"",
+			"volume[i]",
+			"open[i]",
+			"close[i]",
+			"high[i]",
+			"[i+1]",
+			"[i+2]",
+			"[i+3]",
+			"[i-3]",
+			"[i-2]",
+			"[i-1]",
+			"low[i]",
+			"size,",
+			"size",
+			"!=",
+			"bar_mid_point",
+			"):",
+			"if (",
+			"if",
+			"]",
+			" ",
+			"high[i-1]",
+			" >= ",
+			"[i+3]",
+			"[i+2]",
+			"[i+1]",
+			"[i-3]",
+			"[i-2]",
+			"[i-1]",
+			"[i-]",
+			"(ref\\([a-z]+\\[i\\],\\-?[0-9]\\))",
+			"high[i+1]",
+			"close[i+1]",
+			"volume[i-1]",
+			"bar_size[i-1]",
+			"bar_size[i]",
+			"low[i-1]",
+			"volume[i]",
+			"open[i]",
+			"close[i]",
+			"low[i]",
+			"high[i]",
+			"*"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "array.pxd",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3162,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1369,
+								1369
+							],
+							[
+								1583,
+								1583
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Cython/Cython.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 555.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/huxley/Dropbox/code/deepthroat/setup.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 231,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								231,
+								231
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "math.pxd",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1271,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								154,
+								154
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Cython/Cython.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 48.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "fcmp.pxd",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 669,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								153,
+								153
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Cython/Cython.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.anaconda_documentation":
+	{
+		"height": 269.0
+	},
+	"output.coffee_compile_output":
+	{
+		"height": 108.0
+	},
+	"output.coffeecompile_output":
+	{
+		"height": 120.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 108.0
+	},
+	"output.jsconsole_view":
+	{
+		"height": 0.0
+	},
+	"output.jshint_view":
+	{
+		"height": 0.0
+	},
+	"project": "deepthroat.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Dropbox/code/Dashboard/server/server.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 206.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
